@@ -16,5 +16,5 @@ dotenv: Manage environment variables securely.
 Postman: API testing and debugging tool.
 
 Endpoints
-GET /: Health check endpoint to confirm the server is running.
+GET /: Check endpoint to confirm the server is running.
 POST /api/recommendations/get-tools: Fetch recommended AI tools based on user input.
